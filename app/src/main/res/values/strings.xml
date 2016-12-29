@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ContraintLayoutDemo1</string>
+    <string name="dummy">dummy</string>
+    <string name="discard">Discard</string>
+    <string name="upload">Upload</string>
+    <string name="campnou">Camp Nou</string>
+    <string name="location_value">Barcelona, Spain</string>
+    <string name="campnou_description">It\'s the biggest stadium in Europe and, having been built in the 1950s, boasts a retro kind of cool that new stadiums will never match. Home to FC Barcelona plans are afoot for Camp Nou to be enclosed in translucent panels in the colours of the team. Architectural genius Norman Foster (The Gherkin, Wembley) is behind it</string>
+    <string name="capacity_value">99,786</string>
+    <string name="capacity">Capacity</string>
+    <string name="location">Location</string>
+    <string name="architect_value">Norman Foster</string>
+    <string name="architect">Architectural</string>
+</resources>
